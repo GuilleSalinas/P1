@@ -13,7 +13,7 @@
 - Paneras
 - Barbijos Reversibles
 
-  ![](https://github.com/GuilleSalinas/P1/Dideas.jpg)
+  ![Dideas](https://user-images.githubusercontent.com/112260868/187300002-1c9ea7c6-2e23-4ba3-9620-f12b4658100f.jpg)
 
 ## Utilidades en la WEB:
 Ir a [Google](https://google.com/).
