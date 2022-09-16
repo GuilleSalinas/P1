@@ -25,7 +25,7 @@ Border `#E8F6EA`
 Backgounds MENU `#E5E8F3`
 
 ## Logo
-![decoideaslogo.png](https://user-images.githubusercontent.com/112260868/187300002-1c9ea7c6-2e23-4ba3-9620-f12b4658100f.jpg)
+![decoideaslogo.png](https://github.com/GuilleSalinas/P1/blob/main/decoideaslogo.png?raw=true)
 
 
 ## Algunos de los productos:
