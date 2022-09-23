@@ -38,7 +38,7 @@ Backgounds MENU `#E5E8F3`
 - Paneras
 - Barbijos Reversibles
 
-  ![Dideas](https://user-images.githubusercontent.com/112260868/187300002-1c9ea7c6-2e23-4ba3-9620-f12b4658100f.png)
+  ![Dideas](https://github.com/GuilleSalinas/P1/blob/main/Dideas.png?raw=true)
 
 ## Utilidades en la WEB:
 Ir a [Google](https://google.com/).
